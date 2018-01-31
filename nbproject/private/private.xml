@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/Classes/Reservation.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/admin.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/reservationInfoProcess.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/Classes/Passenger.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/passenger.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/Classes/User.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/userlogin.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/savemanageairlineinfoprocess.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/flightinfo.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/reservation.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/Classes/ManageAirlineInfo.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/reservationConfirmation.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/manageairlineinfo.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/superadmin.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/viewProcess.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/Classes/SeatSelection.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/DBConnection/connection.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/userloginProcess.php</file>
+            <file>file:/C:/xampp/htdocs/Airline_reservation/passengerInfoProcess.php</file>
+        </group>
+    </open-files>
+</project-private>
